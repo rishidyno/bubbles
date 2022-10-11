@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "223823004142",
+    "firebase_url": "https://bubbles-ebb71-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "bubbles-ebb71",
+    "storage_bucket": "bubbles-ebb71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223823004142:android:83adfde566a6c83df9ceff",
+        "android_client_info": {
+          "package_name": "com.rishi.dyno.project.bubbles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223823004142-com6pckuohsa0k3r3ipflianhnp5cr26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Z86FK8t4FrtW_P-BU8TenDutiMZOeLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223823004142-com6pckuohsa0k3r3ipflianhnp5cr26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
